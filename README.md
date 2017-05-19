@@ -82,7 +82,7 @@ Input: Allies of King Shan?
 Output: Air, Land, Ice, Fire
 ```
 
-## Tame of thrones - Breaker of chain
+## Tame of thrones - Breaker of chains
 
 ### Message list
 

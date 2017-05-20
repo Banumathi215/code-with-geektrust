@@ -33,7 +33,7 @@ Input: Who is the ruler of Southeros?
 Output: King Shan 
 
 Input: Allies of King Shan? 
-Output: Air, Land, Ice
+Output: Air, Land, Ice,Fire
 ```
 ### Sample I/O - 2
 ```html
